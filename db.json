@@ -1,0 +1,28 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Sudamericana",
+      "anioPublicacion": 1967,
+      "valoracion": 5
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "editorial": "Secker & Warburg",
+      "anioPublicacion": 1949,
+      "valoracion": 4.8
+    },
+    {
+      "id": 3,
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "editorial": "Reynal & Hitchcock",
+      "anioPublicacion": 1943,
+      "valoracion": 4.9
+    }
+  ]
+}
